@@ -1,6 +1,5 @@
 package com.devsuperior.dslearnbds.entities;
 
-import java.io.Serializable;
 import java.time.Instant;
 
 import javax.persistence.Column;
